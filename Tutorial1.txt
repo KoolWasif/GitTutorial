@@ -1,4 +1,6 @@
 This is Git Tutorial
 This is second commot to demostrate working index.
 This line comes from GitTutorial1 remote repo
+<<<<<<< .merge_file_a41788
 GitTutorial1-> commit: Save the status of an index.
+GitTutorial1->pull: Obtain the content of the remote repository
