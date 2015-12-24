@@ -6,5 +6,10 @@ adding index file
 
 <adding line 2 from git tutorial remote repo>
 
+<<<<<<< .merge_file_a10912
 <adding line 3 from Git tutorial>
+=======
+<adding  line 2 from F drive test repo>
+
+>>>>>>> .merge_file_a05828
 
