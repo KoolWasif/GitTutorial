@@ -1,2 +1,6 @@
 adding index file
+<<<<<<< HEAD
 <adding new line from F drive test repo>
+=======
+<adding line 1 from git tutorial remote repo>
+>>>>>>> bbb37bfce0d2916759105b9ae60dfec070b309b4
