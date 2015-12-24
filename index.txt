@@ -6,4 +6,5 @@ adding index file
 
 <adding line 2 from git tutorial remote repo>
 
+<adding line 3 from Git tutorial>
 
