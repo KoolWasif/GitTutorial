@@ -9,7 +9,9 @@ adding index file
 <adding line 3 from Git tutorial>
 
 <adding  line 2 from F drive test repo>
+Test Repo -> adding line from test repo that will create conflict
 
 <adding line from Git tutorial>
 
 
+resolved conflict
