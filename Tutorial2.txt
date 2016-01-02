@@ -1,2 +1,3 @@
 GitTutorial1-> created new file
 first coomit after file is crreated
+Git Tutorial -> This line will create conflict...
