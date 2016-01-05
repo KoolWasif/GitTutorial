@@ -15,3 +15,5 @@ Test Repo -> adding line from test repo that will create conflict
 
 
 resolved conflict
+
+<adding new line from test repo to raise a conflict>
