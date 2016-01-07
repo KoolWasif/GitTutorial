@@ -21,3 +21,5 @@ Test Repo -> adding line from test repo that will create conflict
 <adding new line from git tutorial>
 
 <add another new line from git tutorial>
+
+<adding new line in index from git tutorial>
