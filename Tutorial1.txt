@@ -5,3 +5,4 @@ This line comes from GitTutorial1 remote repo
 GitTutorial1-> commit: Save the status of an index.
 GitTutorial1->pull: Obtain the content of the remote repository
 <adding new line in git tutorial 1 from test repo>
+<adding new line from Git tutorial new repo>
