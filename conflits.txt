@@ -4,5 +4,4 @@ yellow
 orange
 blue
 pink
-blue
 sky blue
