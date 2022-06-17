@@ -4,5 +4,8 @@ yellow
 orange
 blue
 pink
+<<<<<<< HEAD
 red
+=======
+>>>>>>> master
 sky blue
