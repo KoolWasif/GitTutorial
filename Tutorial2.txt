@@ -2,3 +2,6 @@ GitTutorial1-> created new file
 first coomit after file is crreated
 
 Test repo-> commiting from test repo..
+
+
+addd new line of comit by steve auto tester
