@@ -9,3 +9,5 @@ GitTutorial1->pull: Obtain the content of the remote repository
 <adding new line in tutorial 1 from test repo>
 
 <adding line to demonstrate hunk>
+
+<new rebase commit added by Steve auto
