@@ -1,3 +1,1 @@
 this is the file to practice accdienatl commit
-accidental commit 1
-accidental commit 2
