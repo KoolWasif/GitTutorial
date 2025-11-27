@@ -5,3 +5,5 @@ Test repo-> commiting from test repo..
 
 
 addd new line of comit by steve auto tester
+
+new rebased line by Steveauto512
