@@ -27,4 +27,4 @@ Open your terminal or command prompt and clone this repository to your local mac
 
 ```bash
 cd qa-git-practice-lab
-git clone [YOUR_REPO_LINK_HERE]
+git clone https://github.com/KoolWasif/GitTutorial.git
